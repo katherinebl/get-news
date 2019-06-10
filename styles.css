@@ -17,19 +17,8 @@ header h1 {
   text-transform: uppercase;
   font-weight: 300;
   margin: 0;
+  background-color: aquamarine;
 }
-main a {
-  text-decoration: none;
-}
-
-main h2 {
-  color: purple;
-}
-
-/* header vaadin-combo-box {
-  margin-left: 16px;
-  min-width: 300px;
-} */
 
 main {
   display: grid;
