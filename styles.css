@@ -27,3 +27,18 @@ main {
   grid-auto-rows: max-content;
   grid-auto-flow: row dense;
 }
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #000;
+  margin-top: 10px;
+}
+
+footer p {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: aquamarine;
+}
